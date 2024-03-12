@@ -1,8 +1,4 @@
-### Task 2: Infrastructure Preparation for CI/CD Pipeline Project
-
-Infrastructure preparation is crucial for the successful implementation of a CI/CD pipeline in a Kubernetes environment. This phase involves provisioning necessary resources, setting up network connectivity, and ensuring the seamless integration of Jenkins, GitHub, and Argo CD. Below is a detailed guide for completing this task.
-
----
+# 1.2: Infrastructure Preparation for CI/CD Pipeline Project
 
 ## Objective
 
