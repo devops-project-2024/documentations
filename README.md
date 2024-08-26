@@ -1,4 +1,4 @@
-### Task: CI/CD Pipeline Setup in Kubernetes Development Environment
+### Task: Modern CI/CD Pipeline Setup and Deployment
 
 #### Overview
 Our goal is to implement a CI/CD pipeline that integrates with our current development practices. Our source code management system is GitHub, Jenkins will serve as our Continuous Integration (CI) tool, and Argo CD will be used for Continuous Deployment (CD) within our Kubernetes development environment.
